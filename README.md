@@ -4,7 +4,7 @@ Arduino Application SHS Based Project
 Arduino-based Soil Acidity, Moisture, and Cohesiveness Analyzer.
 Application-based Indicator of Soil's Internal Strength.
 
-App created in App Inventor.
+App Inventor.
 Data send via bluetooth module.
 
 ![lugta 2](https://github.com/user-attachments/assets/491170a7-2d7c-4a37-8520-0a86e95fefd7)
